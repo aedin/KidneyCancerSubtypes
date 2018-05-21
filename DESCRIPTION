@@ -7,4 +7,3 @@ Maintainer: Aedin Culhane <Aedin@jimmy.harvard.edu>
 Description: Provide functions to call kidney cancer molecular subtypes
 License: Artistic-2.0
 VignetteBuilder: knitr
-

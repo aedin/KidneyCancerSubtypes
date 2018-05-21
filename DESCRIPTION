@@ -1,9 +1,10 @@
 Package: KidneyCancerSubtypes
-Type: Package
-Title: Calls KIRC cancer subtypes including ClearCode34 ccA/ccB subtypes
+Title: Calls KIRC cancer subtypes including ClearCode34 ccA ccB subtypes
 Version: 1.0
 Date: 2015-01-22
 Author: Aedin Culhane
-Maintainer: Aedin at jimmy.harvard.edu
-Description: This code isn't near release yet!
-License: What license is it under?
+Maintainer: Aedin Culhane <Aedin@jimmy.harvard.edu>
+Description: Provide functions to call kidney cancer molecular subtypes
+License: Artistic-2.0
+VignetteBuilder: knitr
+

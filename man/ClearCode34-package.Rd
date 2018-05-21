@@ -1,14 +1,12 @@
-\name{tt-package}
-\alias{tt-package}
-\alias{tt}
+\name{KidneyCancerSubtypes-package}
+\alias{KidneyCancerSubtypes-package}
+\alias{KidneyCancerSubtypes}
 \docType{package}
 \title{
-What the package does (short line)
-~~ package title ~~
+Includes functions to call kidney cancer subtypes including clearcode34, IMDC etc
 }
 \description{
-More about what it does (maybe more than one line)
-~~ A concise (1-5 lines) description of the package ~~
+Clear code 34 has two subtypes ccA, ccB 
 }
 \details{
 \tabular{ll}{
@@ -22,10 +20,9 @@ License: \tab What license is it under?\cr
 ~~ important functions ~~
 }
 \author{
-Who wrote it
+Aedin Culhane
+Maintainer: <aedin@jimmy.harvard.edu>
 
-Maintainer: Who to complain to <yourfault@somewhere.net>
-~~ The author and/or maintainer of the package ~~
 }
 \references{
 ~~ Literature or other references for background information ~~

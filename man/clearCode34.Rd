@@ -1,8 +1,7 @@
 \name{clearCode34}
 \alias{clearCode34}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
-Call Clearcode34 ccA ccB subtypes
+\title{Call Clearcode34 ccA ccB subtypes
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~

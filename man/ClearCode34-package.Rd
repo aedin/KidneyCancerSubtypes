@@ -2,8 +2,7 @@
 \alias{KidneyCancerSubtypes-package}
 \alias{KidneyCancerSubtypes}
 \docType{package}
-\title{
-Includes functions to call kidney cancer subtypes including clearcode34, IMDC etc
+\title{Includes functions to call kidney cancer subtypes including clearcode34, IMDC etc
 }
 \description{
 Clear code 34 has two subtypes ccA, ccB 

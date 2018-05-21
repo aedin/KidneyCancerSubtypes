@@ -2,10 +2,8 @@
 \alias{KidneyCancerSubtypes-package}
 \alias{KidneyCancerSubtypes}
 \docType{package}
-\title{Includes functions to call kidney cancer subtypes including clearcode34, IMDC etc
-}
-\description{
-Clear code 34 has two subtypes ccA, ccB 
+\title{Includes functions to call kidney cancer subtypes including clearcode34, IMDC etc}
+\description{Clear code 34 has two subtypes ccA, ccB 
 }
 \details{
 \tabular{ll}{
@@ -18,8 +16,7 @@ License: \tab What license is it under?\cr
 ~~ An overview of how to use the package, including the most ~~
 ~~ important functions ~~
 }
-\author{
-Aedin Culhane
+\author{Aedin Culhane
 Maintainer: <aedin@jimmy.harvard.edu>
 
 }
